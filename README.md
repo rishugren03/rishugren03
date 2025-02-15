@@ -74,5 +74,3 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
-
-make it better overall and give some space to each anchor tag for better visual
