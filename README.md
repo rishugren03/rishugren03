@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Developer | AI Enthusiast</h3>
 
-- 🔭 I’m currently working on [HostelFinder](https://trendcity.online)
+- 🔭 I’m currently working as backend developer at [Bawse](https://bawse.life)
 
 - 🤝 I’m looking for help with **Machine Learning**
 
