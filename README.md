@@ -1,4 +1,4 @@
-<h1 align="center">She? 'Hey' : 'Hii', This is Rishu</h1>
+<h1 align="center">'Hey', This is Rishu</h1>
 
 <h3 align="center">Backend Developer | AI Enthusiast</h3>
 
