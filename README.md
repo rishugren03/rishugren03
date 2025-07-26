@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend Developer | AI Enthusiast</h3>
 
-- 🔭 I’m currently working on a SaaS dev tool web2docx.com
+- 🔭 I’m currently working as SDE at YC backed company.
 
 - 🤝 I’m looking for help with **Machine Learning**
 
