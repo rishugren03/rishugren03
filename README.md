@@ -1,8 +1,8 @@
 <h1 align="center">'Hey', This is Rishu</h1>
 
-<h3 align="center">Backend Developer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working as SDE at YC backed company.
+- 🔭 I’m currently working as SDE Intern at Attack Capital (YC W'22).
 
 - 🤝 I’m looking for help with **Machine Learning**
 
