@@ -2,7 +2,8 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working as SDE Intern at Attack Capital (YC W'22).
+- 🔭 I’m recently worked as SDE Intern at Attack Capital (YC W'22).
+- Currently focused on improving problem solving skills and system understandings.
 
 - 🤝 I’m looking for help with **Machine Learning**
 
