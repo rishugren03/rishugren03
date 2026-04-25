@@ -1,79 +1,44 @@
-<h1 align="center">'Hey', This is Rishu</h1>
+# ⚡ Rishu Kumar
 
-<h3 align="center">Full Stack Developer</h3>
-
-- 🔭 I’m recently worked as SDE Intern at Attack Capital (YC W'22).
-- Currently focused on improving problem solving skills and systems understanding.
-
-- 🤝 I’m looking for help with **Machine Learning**
-
-- 💬 Ask me about **Nodejs, Expressjs**
-
-- 📫 How to reach me **rishugren03@gmail.com**
-
-- ⚡ Fun fact **Powered by caffeine and debugging adrenaline!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  rishugren03@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Builder;AI+Agent+Architect" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 The Brief
+I’m a **Software Engineer & SaaS Founder** specialized in building scalable full-stack applications and autonomous AI workflows. Currently, I'm bridging the gap between traditional web architectures and "agentic" systems.
 
-<h3 align="left">🚀 Languages and Frameworks:</h3>
+- 🛠️ **Building:** [Ineller](https://inseller.in) & [GhostAgent](https://github.com/rishugren03/computer-agent)
+- 🏢 **Previously:** SDE Intern @ **Attack Capital (YC W22)**
+- 🎓 **Academics:** CSE @ Bihar Engineering University (2027)
+- 🧠 **Focus:** Building in Public, Autonomous UI Navigation, and Systems Programming
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Python` `Java` `C` `Assembly (x86)` |
+| **Frontend** | `React.js` `Next.js` `TailwindCSS` |
+| **Backend** | `Node.js` `Express.js` `FastAPI` |
+| **Databases** | `MongoDB` `MySQL` `PostgreSQL` `Firebase` |
+| **DevOps/OS** | `Docker` `Linux (Ubuntu/Kernel hacking)` `Git` |
+| **Data/ML** | `Pandas` `Seaborn` `Scikit-Learn` `Vision-based UI mapping` |
+
+---
+
+### 🧬 Recent Experiments & Projects
+* **AI Sales Agents:** Developing WhatsApp-native Shopify agents to automate e-commerce leads and checkouts.
+* **Agentic Workflows:** Researching semantic mapping and vision-based navigation for LinkedIn networking automation.
+
+---
+
+### 🤝 Connect & Collaborate
+- 📧 **Email:** [rishugren03@gmail.com](mailto:rishugren03@gmail.com)
+- 💬 **Ask me about:** Node.js, Express, AI Agents, or why Linux is the superior kernel.
+- ⚡ **Fun Fact:** Powered by caffeine and debugging adrenaline.
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/rishugren03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rishugren03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<h3 align="left">🛠️ Databases and Tools:</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">📊 Data Science and Visualization:</h3>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
-
