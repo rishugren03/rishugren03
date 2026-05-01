@@ -9,7 +9,6 @@ I’m a **Software Engineer & SaaS Founder** specialized in building scalable fu
 
 - 🛠️ **Building:** [Ineller](https://inseller.in) & [GhostAgent](https://github.com/rishugren03/computer-agent)
 - 🏢 **Previously:** SDE Intern @ **Attack Capital (YC W22)**
-- 🎓 **Academics:** CSE @ Bihar Engineering University (2027)
 - 🧠 **Focus:** Building in Public, Autonomous UI Navigation, and Systems Programming
 
 ---
