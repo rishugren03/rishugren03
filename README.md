@@ -7,9 +7,11 @@
 ### 🚀 The Brief
 I’m a **Software Engineer & SaaS Founder** specialized in building scalable full-stack applications and autonomous AI workflows. Currently, I'm bridging the gap between traditional web architectures and "agentic" systems.
 
-- 🛠️ **Building:** [Ineller](https://inseller.in) & [GhostAgent](https://github.com/rishugren03/computer-agent)
-- 🏢 **Previously:** SDE Intern @ **Attack Capital (YC W22)**
-- 🧠 **Focus:** Building in Public, Autonomous UI Navigation, and Systems Programming
+- **Building:** [Ineller](https://inseller.in) & [GhostAgent](https://github.com/rishugren03/computer-agent)
+- **Previously:** SDE Intern @ **Attack Capital (YC W22)**
+- **Focus:** Building in Public, Autonomous UI Navigation, and Systems Programming
+- **Building a Lot here:** [CodewaveLabs](https://codewavelabs.org)
+- **Portfolio:** https://rishuu.me
 
 ---
 
