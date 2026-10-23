@@ -5,7 +5,6 @@ Software engineer focused on backend systems and AI agents. Final-year B.Tech CS
 ## Currently building
 
 - **[Local voice AI platform](https://github.com/rishugren03/local-voice-agent):** a self-hosted alternative to Vapi for building and running voice agents without cloud dependencies. Built on LiveKit, whisper.cpp, Ollama and Piper.
-- **[GhostAgent](https://github.com/rishugren03/computer-agent):** an autonomous browser agent that navigates websites using DOM parsing and vision models.
 
 ## Experience
 
