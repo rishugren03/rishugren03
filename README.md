@@ -9,8 +9,8 @@ Software engineer focused on backend systems and AI agents. Final-year B.Tech CS
 
 ## Experience
 
-- **SDE Intern, Attack Capital (YC W22):** built voice AI and clinical tools.
-- **Intern, Bawse:** worked on a music analytics product.
+- **SDE Intern, Attack Capital (YC W22):** built AI Scribe, Voice AI and clinical tools.
+- **Backend Intern, Bawse:** worked on a music analytics product.
 
 ## Tech stack
 
